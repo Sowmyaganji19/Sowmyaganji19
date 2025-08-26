@@ -3,15 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyaganji19&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyaganji19" /> </p>
 
-- 🔭 I’m currently working on **EVENTPLANNER360**
 
 - 🌱 I’m currently learning **Full stack development**
 
 - 💬 Ask me about **Java, python, c, html & css,**
 
 - 📫 How to reach me **sowmyaganji.19@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oo4eOL9_DMXfiQCkre5yMS9agC1s1XqG/edit?usp=drive_link&ouid=103638268739948058086&rtpof=true&sd=true](https://docs.google.com/document/d/1oo4eOL9_DMXfiQCkre5yMS9agC1s1XqG/edit?usp=drive_link&ouid=103638268739948058086&rtpof=true&sd=true)
 
 - ⚡ Fun fact **I love coding**
 
