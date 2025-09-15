@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyaganji19&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyaganji19" /> </p>
 
 
-- 🌱 I’m currently learning **Full stack development**
 
-- 💬 Ask me about **Java, python, c, html & css,**
+
+- 💬 Ask me about **Java, python, c, html & css,react.js**
 
 - 📫 How to reach me **sowmyaganji.19@gmail.com**
 
