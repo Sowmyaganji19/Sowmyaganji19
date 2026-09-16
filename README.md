@@ -160,6 +160,8 @@ A computer-vision based interactive system using hand gestures for writing and c
 ## 🎯 Areas of Interest
 
 ```text
+Software engineer
+Software testing
 Artificial Intelligence
 Machine Learning
 Computer Vision
