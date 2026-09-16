@@ -1,28 +1,200 @@
-<!-- <h1 align="center">Hi 👋, I'm Sowmya ganji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👋 Hi, I'm Sowmya Ganji
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmyaganji19&label=Profile%20views&color=0e75b6&style=flat" alt="sowmyaganji19" /> </p>
+### AI & Robotics | Machine Learning | Computer Vision | Python | Data Analysis
+
+🎓 **M.Tech. in Information Technology – Artificial Intelligence & Robotics**
+📍 Hyderabad, Telangana, India
+
+I am a postgraduate specializing in **Artificial Intelligence and Robotics**, with an interest in Machine Learning, Computer Vision, Data Analysis, and intelligent automation.
+
+---
+
+## 👩‍💻 About Me
+
+* 🎓 M.Tech. in IT – Artificial Intelligence & Robotics
+* 🤖 Interested in Artificial Intelligence, Machine Learning & Robotics
+* 👁️ Passionate about Computer Vision and Image Processing
+* 📊 Interested in Data Analysis and data-driven solutions
+* 🐍 Working with Python, SQL, C and Java
+* 🔬 Experience in machine learning model development and evaluation
+* 🌐 Experience developing Streamlit applications
+* 📚 Research published in IEEE Xplore and Springer proceedings
+
+---
+🎓 Education
+🎓 M.Tech. – Information Technology
+
+Artificial Intelligence & Robotics
+Chaitanya Bharathi Institute of Technology, Hyderabad
+2024 – 2026 | CGPA: 9.08 / 10
+
+💻 B.Tech. – Computer Science & Engineering
+
+G. Narayanamma Institute of Technology and Science, Hyderabad
+2020 – 2024 | CGPA: 6.84 / 10
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🤖 AI & Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+
+* CNN
+* Transfer Learning
+* ResNet50
+* EfficientNetV2
+* Image Classification
+* Object Detection
+* Model Evaluation
+
+### 📊 Data & Development
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
+
+* Data Analysis
+* Data Preprocessing
+* Feature Extraction
+* Model Comparison
+* Real-Time Prediction
+* Process Automation
+
+---
+
+## 🚀 Projects
+
+### 🛰️ Remote Sensing Image Classification Using CNN
+
+A machine-learning based image classification system for analyzing remote-sensing image datasets.
+
+**Technologies:**
+`Python` `OpenCV` `CNN` `ResNet50` `EfficientNetV2` `Streamlit`
+
+**Highlights:**
+
+* Developed a machine-learning pipeline for image classification.
+* Applied data preprocessing and feature extraction.
+* Implemented transfer learning using ResNet50 and EfficientNetV2.
+* Achieved **97% accuracy using ResNet50**.
+* Achieved **96% accuracy using EfficientNetV2**.
+* Developed a Streamlit application for real-time prediction.
+
+---
+
+### 🌋 Detection of Natural Hazards from Satellite Images
+
+A machine-learning based system for identifying landslide-prone regions from satellite images.
+
+**Technologies:**
+`Python` `Machine Learning` `Data Analysis` `Streamlit`
+
+**Highlights:**
+
+* Developed a system for detecting landslide-prone regions.
+* Compared SVM, Random Forest, Logistic Regression and Decision Tree.
+* Evaluated models using accuracy-based performance metrics.
+* Achieved **90.62% accuracy using SVM**.
+* Developed a Streamlit application for real-time predictions.
+
+---
+
+### ✋ AirWriteX
+
+**Intelligent Finger-Based Air Writing System with Finger Counting and Gesture-Controlled Interaction**
+
+A computer-vision based interactive system using hand gestures for writing and controlling applications.
+
+**Technologies:**
+`Python` `Computer Vision` `Hand Gesture Recognition` `Fingertip Tracking`
+
+**Highlights:**
+
+* Implemented real-time hand and finger tracking.
+* Developed air-writing functionality.
+* Implemented finger counting.
+* Added gesture-controlled interactions.
+* Implemented writing, erase and volume-control operations.
+* Achieved **94.2% overall detection accuracy**.
+* Achieved an average processing rate of **28.5 FPS**.
+* Published the work in **IEEE Xplore**.
+
+---
+
+## 📚 Publications
+
+### 📄 AirWriteX: Intelligent Finger-Based Air Writing System with Finger Counting and Gesture-Controlled Interaction
+
+**2025 International Hybrid Conference on Decision Aid Sciences and Applications (DASA'25)**
+
+📅 December 2025
+📌 Published in **IEEE Xplore**
+
+---
+
+### 📄 Remote Sensing Image Classification Using CNN
+
+📅 March 2025
+📌 **Springer LNNS Series – Book Chapter / Conference Proceedings**
+
+---
+
+## 🏆 Certifications
+
+* ☁️ **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
+* ☕ **Introduction to JAVA Excellence**
+* 💻 **Introduction to C**
+* 🧪 **A Complete 2024 Software Testing Bootcamp**
+* 🤖 **Robotic Process Automation – NIELIT**
+* 🚁 **Drone / Unmanned Aerial System – NIELIT**
+
+---
+
+## 🎯 Areas of Interest
+
+```text
+Artificial Intelligence
+Machine Learning
+Computer Vision
+Data Analysis
+Robotics
+Deep Learning
+Process Automation
+Real-Time AI Applications
+```
+
+---
+
+## 📈 Currently Exploring
+
+* Machine Learning & Deep Learning
+* Computer Vision
+* AI-based Automation
+* Data Analytics
+* Robotics
+* Real-Time AI Applications
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [sowmyaganji.19@gmail.com](mailto:sowmyaganji.19@gmail.com)
+
+💼 **LinkedIn:** [Sowmya Ganji](https://www.linkedin.com/in/sowmya-ganji-12a058207)
 
 
 
+---
 
-- 💬 Ask me about **Java, python, c, html & css,react.js**
+## ⭐ Thanks for Visiting!
 
-- 📫 How to reach me **sowmyaganji.19@gmail.com**
+I'm always interested in learning, building, and exploring new technologies.
 
-- ⚡ Fun fact **I love coding**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ sowmya-ganji-12a058207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ sowmya-ganji-12a058207" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sowmyaganji_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sowmyaganji_19" height="30" width="40" /></a>
-</p>
-
- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sowmyaganji19&show_icons=true&locale=en&layout=compact" alt="sowmyaganji19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowmyaganji19&show_icons=true&locale=en" alt="sowmyaganji19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmyaganji19&" alt="sowmyaganji19" /></p> --> -->
+**Let's connect and build something impactful together! 🚀**
